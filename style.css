@@ -1,10 +1,8 @@
 body{
     background-image: url(./img/winter-snow.jpg);
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1{
-    font-family: Arial, Helvetica, sans-serif;
     color: bisque;
     background-color: darkslategray;
 }
